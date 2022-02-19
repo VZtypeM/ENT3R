@@ -7,7 +7,7 @@ def x_plus_y(x, y):
 # og resultatet av x_plusy funksjonen sendes inn til print funksjonen
 print(x_plus_y(5, 7))
 
-# Math er et bibliotek, jeg bruker det i sjekk_for_primtall funksjonen
+# Math er et bibliotek, det gir tilgang til funksjoner som ceil og sqrt
 import math
 
 

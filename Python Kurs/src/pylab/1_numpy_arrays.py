@@ -7,6 +7,9 @@
 # Hvis man velger å bruke matplotlib istedenfor pylab, må man skrive ting på en litt annen måte
 
 # Kunne brukt "import numpy"
+# Jeg har sett mange bruke "from pylab import *", det betyr at man slipper å skrive "pylab." hele tiden,
+# men da vet man ikke hvor funksjonene kommer fra.
+# Alternativt kan man skrive "import pylab as pl", så må man skrive "pl." istedenfor
 import pylab
 
 
