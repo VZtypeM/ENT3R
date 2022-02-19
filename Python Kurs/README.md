@@ -4,14 +4,14 @@ Kurset ligger i mappen `src`
 
 ## Starte virtual enviroment
 
-Først av alt sjekk at du er i riktig mappe, hvis du klonet hele repoet mitt må du først gå til mappen `Python Kurs` ved å kjøre kommandoen
+Først av alt, naviger til riktig mappe, naviger til `ENT3R` mappen du har klonet, hvis ikke du allerede er der, og så kjør kommandoen under slik at du går inn i riktig mappe.
 
 ```shell script
 cd "Python Kurs"
 ```
 
 Denne mappen er et python virtual enviroment, det betyr at det er mulig å laste ned pakker som matplotlib og numpy her uten at det er lastet ned ellers på pc'en din.
-Du trenger heller ikke ha python installert på pc'en. For å starte virtual enviroment er det bare å kjøre følgende kommando fra mappen `Python Kurs`.
+Du trenger heller ikke ha python installert på pc'en. For å starte virtual enviroment er det bare å kjøre følgende kommando:
 
 ```shell script
 Scripts\activate.bat
@@ -19,15 +19,17 @@ Scripts\activate.bat
 
 ## Kjøre filer
 
-Etter dette skal det stå `(Python Kurs) C:\filbanen_din_her\Python Kurs>` i terminalen din
+Etter dette skal det stå `(Python Kurs) C:\filbanen_din_her\Python Kurs>` i terminalen din.
 
-For å kjøre den første python fila bruk følgende kommando: (Kan tilpasses for å kjøre de andre)
+For å kjøre den første python fila bruk følgende kommando: (Kan tilpasses for å kjøre de andre filene)
 
 ```shell script
 python src\basic_python\1_variabler.py
 ```
 
 Tips: Du kan trykke på tab for å autocomplete i terminalen, så bare skriv `python src\basi` og trykk på tab så står det `python src\basic_python`
+
+Tips2: Hvis du trykker på pil opp i terminalen kan du gå gjennom kommandoer du nylig har skrevet inn
 
 ## VScode
 
