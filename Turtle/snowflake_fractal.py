@@ -41,5 +41,5 @@ def snowflake(start: Tuple[float, float], size: int, iterations: int) -> None:
 
 
 t.speed(0)
-snowflake((-350, 200), 700, 6)
+snowflake((-300, 150), 500, 1)
 t.mainloop()
