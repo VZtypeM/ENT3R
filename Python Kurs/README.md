@@ -2,6 +2,8 @@
 
 Kurset ligger i mappen `src`
 
+Under følger en del instrukser for å kunne bruke koden på din egen maskin, de forutsetter at du har basic kunnskap om å bruke en terminal. (Hvis du klarer å klone prosjektet burde det gå fint)
+
 ## Starte virtual enviroment
 
 Først av alt, naviger til riktig mappe, naviger til `ENT3R` mappen du har klonet, hvis ikke du allerede er der, og så kjør kommandoen under slik at du går inn i riktig mappe.
