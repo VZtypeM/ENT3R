@@ -21,11 +21,11 @@ else:
 # For eksempel:
 # Alle linjene fra og med 25 til og med 29 under er en del av blokken som kjøres hvis 3 < 7 på linje 24
 
-if 3 < 7:
-    print("3 er mindre enn 7")
+if 7 < 3 or 2 == 1:
+    print("7 er mindre enn 3 ELLER 2 er lik 1")
     if 0 != 1:
-        print("0 er ikke lik 1, og 3 var mindre enn 7")
+        print("0 er ikke lik 1")
     else:
-        print("0 er lik 1, og 3 var mindre enn 7")
+        print("0 er lik 1")
 else:
-    print("3 er ikke mindre enn 7")
+    print("7 er IKKE mindre enn 3 OG 2 er ikke lik 1")
