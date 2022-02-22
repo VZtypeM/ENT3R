@@ -11,8 +11,7 @@ many are also impressed by how large numbers we can compute with one of the algo
 
 ## Running the notebook
 
-By replacing the `https://github.com/` part of the link to this site with `http://colab.research.google.com/github/` you can open the notebook and run it. 
-The full link to then becomes:
+Open the notebook by first clicking on the `Fibonacci-Run-Time.ipynb` file above, then replacing the `https://github.com/` part of the URL with `http://colab.research.google.com/github/`. The full link to then becomes:
 https://colab.research.google.com/github/VZtypeM/ENT3R/blob/master/Fibonacci-Run-Time/Fibonacci-Run-Time.ipynb
 
 Note that you will get warnings when you try to run it, because it is possible to include virus in the code, 
