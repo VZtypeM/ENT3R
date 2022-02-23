@@ -13,7 +13,7 @@ for variabel_navn in [0, 1, 2, 3, 4]:
 print("\n")
 
 
-# Fra og med 0, til (men ikke med) 10, øk med 2 hver gang:
+# Fra og med -2, til (men ikke med) 10, øk med 2 hver gang:
 for partall in range(-2, 10, 2):
     print(partall, end=" ")
 
